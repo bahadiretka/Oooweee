@@ -8,11 +8,8 @@ SwiftUI app with rick and morty api
 ## character detail 
 <img src="documentation/character-detail.png" width="250">
 
-## character detail 
-<img src="documentation/character-detail.png" width="250">
-
 ## if there is no character in a location
-<img src="documentation/character-detail.png" width="250">
+<img src="documentation/no-character.png" width="250">
 
 ## splash screen 
 <img src="documentation/splash.gif" width="250">
